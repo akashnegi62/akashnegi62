@@ -2,30 +2,26 @@
 <h3 align="center">Building modern, scalable & high-performance web applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Modern+UI%2FUX+%26+Performance+Focused" />
 </p>
 
 ---
 
-## 🚀 About Me
-💻 Full-Stack Web Developer with strong expertise in **React.js, Next.js, and Node.js**  
-🎨 Passionate about **modern UI/UX**, animations, and performance optimization  
-⚡ Experienced in **REST APIs, Redux state management, and scalable architectures**
+## 👋 About Me
+I’m a **Full-Stack Web Developer** specializing in **React.js, Next.js, and Tailwind CSS**, with backend experience in **Node.js, Express.js, MongoDB, and MySQL**.
 
----
+I focus on building **scalable, responsive, and performance-optimized web applications** with clean architecture, modern UI/UX, and seamless REST API integration.
 
-## 🧠 Tech Stack
+
+## 🛠 Technical Skills
 
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap" />
-</p>
-
-### 🧩 Animation & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 ### ⚙️ Backend
@@ -33,41 +29,58 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### 🗄 Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🧑‍💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,c,cpp" />
 </p>
 
 ### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-  <img src="https://img.shields.io/badge/Chrome%20DevTools-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
 </p>
+
+### ✨ Other Skills
+- Responsive Web Design
+- UI/UX Design Principles
+- RESTful API Integration
+- Performance Optimization
+- Problem Solving
 
 ---
 
-## 📌 Featured Projects
-### 🔹 Project Name
-✨ Short engaging description of what the project does  
-🛠 **Tech:** React, Next.js, Tailwind, Node.js  
+## 🚀 Projects
+
+### 🎬 Mediafly Website
+**Tech Stack:** Next.js, Tailwind CSS, Framer Motion  
+- Built a **marketing-focused website** for a video content brand  
+- Designed UI optimized for **Instagram, YouTube & TikTok branding**  
+- Ensured **fast loading, mobile responsiveness & accessibility**
+
 🔗 Live Demo | 📂 Repository
 
-### 🔹 Project Name
-🚀 Focus on scalability, animations, or real-world problem solving  
-🛠 **Tech:** React, Redux, Express, MongoDB  
-📂 Repository
+---
+
+### 🤖 ChatSphere – AI Chatbot Platform
+**Tech Stack:** Next.js, Tailwind CSS, Groq, Supabase  
+- Developed an **AI-powered chatbot** for real-time interactions  
+- Integrated **Supabase** for authentication and data handling  
+- Focused on **speed, scalability, and smooth user experience**
+
+🔗 Live Demo | 📂 Repository
+
+---
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="160" />
 </p>
 
 ---
