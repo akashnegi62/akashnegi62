@@ -57,7 +57,9 @@ I focus on building **scalable, responsive, and performance-optimized web applic
 - Designed UI optimized for **Instagram, YouTube & TikTok branding**  
 - Ensured **fast loading, mobile responsiveness & accessibility**
 
-🔗 Live Demo | 📂 Repository
+<a href="https://mediafly-three.vercel.app/" target="_blank">🔗 Live Demo</a> |
+<a href="https://github.com/akashnegi62/Mediafly" target="_blank">📂 Repository</a>
+
 
 ---
 
@@ -67,7 +69,9 @@ I focus on building **scalable, responsive, and performance-optimized web applic
 - Integrated **Supabase** for authentication and data handling  
 - Focused on **speed, scalability, and smooth user experience**
 
-🔗 Live Demo | 📂 Repository
+<a href="https://chatsphere-user.vercel.app/" target="_blank">🔗 Live Demo</a> |
+<a href="https://github.com/akashnegi62/chatsphere" target="_blank">📂 Repository</a>
+
 
 ---
 
