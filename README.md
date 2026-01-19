@@ -2,10 +2,6 @@
 <h3 align="center">Building modern, scalable & high-performance web applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Modern+UI%2FUX+%26+Performance+Focused" />
 </p>
 
@@ -75,25 +71,16 @@ I focus on building **scalable, responsive, and performance-optimized web applic
 
 ---
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="160" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/akash-negi-aa66a334b" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="akashnegi7142@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR_PORTFOLIO" target="_blank">
+  <a href="https://akashfoliou.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
