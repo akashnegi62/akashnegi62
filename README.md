@@ -127,7 +127,9 @@
 </picture>
 
 </div>
+
 ---
+
 ### Thanks for stopping by my profile! 🚀
 I’m always open to learning, collaborating, and building meaningful web experiences.
 
