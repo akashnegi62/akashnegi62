@@ -24,21 +24,36 @@
 
 ## 🛠️ Tech Stack
 
+### 🎨 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,bootstrap,vite,ejs,framer" />
 </p>
+
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,npm,firebase" />
 </p>
+
+### 🗄️ Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
+
+### 🧰 Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,postman,eslint,docker,aws,vercel,netlify" />
 </p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  🔹 Additional Tools & Concepts: JWT, Nodemon
 </p>
+
+---
+
 
 ---
 
