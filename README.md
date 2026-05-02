@@ -1,10 +1,8 @@
-<div align="left">
+<div align="right">
 
 ### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
-
-</div>
 
 </div>
 
@@ -24,10 +22,27 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,tailwind,bootstrap,vite,ejs,framer" />
+  <img src="https://skillicons.dev### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase,supabase" />
+</p>
+
+<p>
+  🔹 Backend Focus: REST APIs, Authentication, Server-side Development
+</p>
+
+### 🗄️ DatabasesSAP, Framer Motion
+
 </p>
 
 ### ⚙️ Backend Development
@@ -54,6 +69,15 @@
 
 ---
 
+## 💼 Experience
+
+### 💻 Web Development Internship — 3 Months
+
+* Built responsive web applications using React.js, Next.js, and Tailwind CSS.
+* Collaborated with clients to gather requirements and deliver custom solutions.
+* Integrated RESTful APIs for dynamic functionality.
+* Improved performance, responsiveness, and cross-browser compatibility.
+* Used Git for version control and deployed applications on Vercel.
 
 ---
 
