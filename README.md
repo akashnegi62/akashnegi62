@@ -1,3 +1,15 @@
+# 👋 Hey, I'm YourName
+
+<div align="center">
+
+### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+
+</div>
+
+---
+
 ## 🌟 About Me
 
 💡 Passionate Web Developer with expertise in building modern, scalable, and performance-driven web applications.
@@ -14,35 +26,43 @@
 
 ### 🎨 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge\&logo=framer\&logoColor=blue)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ### ⚙️ Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 🧰 Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 💻 Web Development Internship — 3 Months
+
+* Built responsive web applications using React.js, Next.js, and Tailwind CSS.
+* Collaborated with clients to gather requirements and deliver custom solutions.
+* Integrated RESTful APIs for dynamic functionality.
+* Improved performance, responsiveness, and cross-browser compatibility.
+* Used Git for version control and deployed applications on Vercel.
 
 ---
 
@@ -125,3 +145,18 @@
 </div>
 
 ---
+
+## 🔧 Quick Setup
+
+1. Create a repository with the same name as your GitHub username.
+2. Add this README.md file inside that repository.
+3. Replace placeholders:
+
+   * `YourName`
+   * `YOURUSERNAME`
+   * LinkedIn link
+   * Email address
+   * Portfolio URL
+4. Commit and push to GitHub.
+
+Your profile README will automatically appear on your GitHub profile page.
