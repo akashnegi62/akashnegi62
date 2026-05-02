@@ -1,6 +1,6 @@
 <div align="left">
 
-###🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
+### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 
@@ -117,16 +117,16 @@
 
 ---
 
-## 🕹️ GitHub Arcade
+## 🚀 Contribution Game
 
 <div align="center">
 
-<img src="https://github.com/yoshi389111/github-profile-3d-contrib/raw/main/docs/example/profile-season-animate.svg" width="900"/>
+<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="700"/>
 
 </div>
 
 ---
-Thanks for stopping by my profile! 🚀
+### Thanks for stopping by my profile! 🚀
 I’m always open to learning, collaborating, and building meaningful web experiences.
 
 If you like what you see, feel free to connect, explore my projects, or drop a ⭐ on a repository.
