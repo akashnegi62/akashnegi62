@@ -1,5 +1,3 @@
-# 👋 Hey, I'm YourName
-
 <div align="left">
 
 ### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
@@ -7,6 +5,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 
 </div>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-negi-aa66a334b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akashnegi7142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://akashfoliou.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -68,18 +74,6 @@
 
 ---
 
-## 💼 Experience
-
-### 💻 Web Development Internship — 3 Months
-
-* Built responsive web applications using React.js, Next.js, and Tailwind CSS.
-* Collaborated with clients to gather requirements and deliver custom solutions.
-* Integrated RESTful APIs for dynamic functionality.
-* Improved performance, responsiveness, and cross-browser compatibility.
-* Used Git for version control and deployed applications on Vercel.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛒 Grocerly — Grocery Store Web App
@@ -135,42 +129,3 @@
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-## ⚡ Fun Quote
-
-> "Code. Create. Innovate. Repeat."
-
----
-
-<div align="center">
-
-### 🚀 Always Building. Always Learning.
-
-</div>
-
----
-
-## 🔧 Quick Setup
-
-1. Create a repository with the same name as your GitHub username.
-2. Add this README.md file inside that repository.
-3. Replace placeholders:
-
-   * `YourName`
-   * `YOURUSERNAME`
-   * LinkedIn link
-   * Email address
-   * Portfolio URL
-4. Commit and push to GitHub.
-
-Your profile README will automatically appear on your GitHub profile page.
