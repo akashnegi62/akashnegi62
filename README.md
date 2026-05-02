@@ -1,7 +1,3 @@
-# 👋 Hey, I'm YourName
-
-<div align="center">
-
 ### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
@@ -39,18 +35,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
-
----
-
-## 💼 Experience
-
-### 💻 Web Development Internship — 3 Months
-
-* Built responsive web applications using React.js, Next.js, and Tailwind CSS.
-* Collaborated with clients to gather requirements and deliver custom solutions.
-* Integrated RESTful APIs for dynamic functionality.
-* Improved performance, responsiveness, and cross-browser compatibility.
-* Used Git for version control and deployed applications on Vercel.
 
 ---
 
@@ -133,18 +117,3 @@
 </div>
 
 ---
-
-## 🔧 Quick Setup
-
-1. Create a repository with the same name as your GitHub username.
-2. Add this README.md file inside that repository.
-3. Replace placeholders:
-
-   * `YourName`
-   * `YOURUSERNAME`
-   * LinkedIn link
-   * Email address
-   * Portfolio URL
-4. Commit and push to GitHub.
-
-Your profile README will automatically appear on your GitHub profile page.
