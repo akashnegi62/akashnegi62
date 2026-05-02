@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
 
 ### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
