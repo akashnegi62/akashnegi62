@@ -1,11 +1,11 @@
 # 👋 Hi, I'm [Your Full Name]
 
-I'm a **Full Stack Developer** who builds responsive, performant web and mobile applications from UI to deployment. I focus on clean architecture, smooth user experiences, and shipping production-ready systems using modern JavaScript ecosystems, cloud infrastructure, and containerized workflows.
+# 👋 I'm [Your Name]
 
-🔭 **Currently working on:** [Project/Company or "Open to full-time/contract roles"]  
-🌱 **Deepening expertise in:** AWS ECS/EKS, Next.js App Router, Infrastructure as Code  
-🤝 **Open to:** Full-time | Freelance | Open-source collaboration  
-📍 **Based in:** [City, Country]  
+<!-- Typing effect: requires https://github.com/denvercoder1/readme-typing-svg -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI+%E2%86%92+Cloud+%F0%9F%9A%80;React+%7C+Node+%7C+AWS+%7C+Docker" alt="Typing SVG" />
+
+> Building fast, scalable apps with clean code & cloud-native workflows.
 📫 **Contact:** [your.email@example.com](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://yourwebsite.com)
 
 ---
