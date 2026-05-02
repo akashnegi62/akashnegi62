@@ -1,4 +1,6 @@
-<div align="right">
+# 👋 Hey, I'm YourName
+
+<div align="left">
 
 ### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
@@ -31,24 +33,21 @@
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev### ⚙️ Backend Development
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,vite" />
+</p>
+
+<p>
+  🔹 Additional Frontend Technologies: React Native, GSAP, Framer Motion
+</p>
+
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase,supabase" />
 </p>
 
 <p>
-  🔹 Backend Focus: REST APIs, Authentication, Server-side Development
-</p>
-
-### 🗄️ DatabasesSAP, Framer Motion
-
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,npm,firebase" />
+  🔹 Backend Skills: REST API Development, Authentication, Server-side Development
 </p>
 
 ### 🗄️ Databases
@@ -60,11 +59,11 @@
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,postman,eslint,docker,aws,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
 </p>
 
 <p>
-  🔹 Additional Tools & Concepts: JWT, Nodemon
+  🔹 Additional Platform: Chrome DevTools
 </p>
 
 ---
@@ -160,3 +159,18 @@
 </div>
 
 ---
+
+## 🔧 Quick Setup
+
+1. Create a repository with the same name as your GitHub username.
+2. Add this README.md file inside that repository.
+3. Replace placeholders:
+
+   * `YourName`
+   * `YOURUSERNAME`
+   * LinkedIn link
+   * Email address
+   * Portfolio URL
+4. Commit and push to GitHub.
+
+Your profile README will automatically appear on your GitHub profile page.
