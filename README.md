@@ -24,30 +24,18 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 </p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
-### ⚙️ Backend Development
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
-
-### 🗄️ Databases
-
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
-
-### 🧰 Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
