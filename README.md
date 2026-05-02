@@ -1,6 +1,6 @@
 <div align="left">
 
-### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
+### 🚀  Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 
@@ -117,11 +117,15 @@
 
 ---
 
-## 🚀 Contribution Game
+## 🚀 GitHub Contribution Game
 
 <div align="center">
 
-<img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="700"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -132,4 +136,3 @@ I’m always open to learning, collaborating, and building meaningful web experi
 If you like what you see, feel free to connect, explore my projects, or drop a ⭐ on a repository.
 
 Happy Coding! 💻✨
----
