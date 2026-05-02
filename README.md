@@ -1,6 +1,10 @@
+<div align="right">
+
 ### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+
+</div>
 
 </div>
 
