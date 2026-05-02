@@ -116,15 +116,17 @@
 * Optimized frontend performance
 
 ---
+## 🚀 GitHub Contribution Game
 
-## 🎮 Animated Contribution Timeline
+<div align="left">
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Zxilly/animated-timeline/main/docs/demo.svg" width="850"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
 ---
 ### Thanks for stopping by my profile! 🚀
 I’m always open to learning, collaborating, and building meaningful web experiences.
