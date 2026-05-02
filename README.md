@@ -117,15 +117,11 @@
 
 ---
 
-## 🚀 GitHub Contribution Game
+## 🎮 Animated Contribution Timeline
 
-<div align="left">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Zxilly/animated-timeline/main/docs/demo.svg" width="850"/>
 
 </div>
 
