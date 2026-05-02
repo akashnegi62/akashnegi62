@@ -46,18 +46,6 @@
 
 ---
 
-## 💼 Experience
-
-### 💻 Web Development Internship — 3 Months
-
-* Built responsive web applications using React.js, Next.js, and Tailwind CSS.
-* Collaborated with clients to gather requirements and deliver custom solutions.
-* Integrated RESTful APIs for dynamic functionality.
-* Improved performance, responsiveness, and cross-browser compatibility.
-* Used Git for version control and deployed applications on Vercel.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛒 Grocerly — Grocery Store Web App
@@ -137,18 +125,3 @@
 </div>
 
 ---
-
-## 🔧 Quick Setup
-
-1. Create a repository with the same name as your GitHub username.
-2. Add this README.md file inside that repository.
-3. Replace placeholders:
-
-   * `YourName`
-   * `YOURUSERNAME`
-   * LinkedIn link
-   * Email address
-   * Portfolio URL
-4. Commit and push to GitHub.
-
-Your profile README will automatically appear on your GitHub profile page.
