@@ -1,18 +1,10 @@
 <div align="left">
 
-### 🚀 Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
+### Full Stack Web Developer | React & Next.js Enthusiast | UI/UX Focused Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+🌟<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%92%BB;Backend+Developer+%F0%9F%94%A5;Building+Modern+Web+Experiences+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
 
 </div>
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/akash-negi-aa66a334b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:akashnegi7142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://akashfoliou.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
 
 ---
 
@@ -25,6 +17,15 @@
 🧠 Strong experience in both frontend and backend development using modern JavaScript technologies.
 
 🎯 Focused on delivering optimized, user-friendly, and real-world digital solutions.
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-negi-aa66a334b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akashnegi7142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://akashfoliou.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -116,16 +117,19 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 👾 GitHub Contribution Game
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/screenshots/github-readme-activity-graph.gif" width="800"/>
 
 </div>
 
+---
+Thanks for stopping by my profile! 🚀
+I’m always open to learning, collaborating, and building meaningful web experiences.
+
+If you like what you see, feel free to connect, explore my projects, or drop a ⭐ on a repository.
+
+Happy Coding! 💻✨
 ---
