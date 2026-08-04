@@ -89,9 +89,7 @@
 * ⚡ Modern responsive UI with custom animations
 * 🚀 Production-ready architecture with scalable backend
 
-🔗 **Live Demo:** *(Add your live link)*
-
-🔗 **GitHub:** *(Add repository link)*
+🔗 **Live Demo:** *(https://aura-learn-beta.vercel.app/)*
 
 ---
 
@@ -106,9 +104,7 @@
 * Responsive design for all devices
 * Performance-optimized pages
 
-🔗 **Live Demo:** *(Add live link)*
-
-🔗 **GitHub:** *(Add repository link)*
+🔗 **Live Demo:** *(https://www.mandarinworldwidevacations.com/)*
 
 ---
 
@@ -124,9 +120,7 @@
 * Secure API handling
 * Optimized frontend performance
 
-🔗 **Live Demo:** *(Add live link)*
-
-🔗 **GitHub:** *(Add repository link)*
+🔗 **Live Demo:** *(https://chatsphere-user.vercel.app/)*
 
 ---
 ## 🚀 GitHub Contribution Game
