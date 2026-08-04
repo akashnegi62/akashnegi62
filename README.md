@@ -74,33 +74,41 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🛒 Grocerly — Grocery Store Web App
+### 🧠 AuraLearn — AI-Powered Study Material Generator
 
-**Tech Used:** Next.js, Express.js, MongoDB
+**Tech Used:** Next.js 15, FastAPI, Python, Gemini AI, Groq (Llama 3.1), PostgreSQL, Supabase, SQLAlchemy, Alembic
 
 ✨ Features:
 
-* Product listing & category filtering
-* Shopping cart functionality
-* Secure authentication system
-* RESTful API integration
-* Optimized database queries
+* 📄 Upload PDF & DOCX study material
+* 🤖 AI-generated Flashcards & Practice Quizzes
+* 🔁 Automatic AI fallback (Gemini → Groq)
+* 🗄️ PostgreSQL database with SQLAlchemy & Alembic migrations
+* ⚡ Modern responsive UI with custom animations
+* 🚀 Production-ready architecture with scalable backend
+
+🔗 **Live Demo:** *(Add your live link)*
+
+🔗 **GitHub:** *(Add repository link)*
 
 ---
 
-### 🎥 Mediafly — Marketing Agency Website
+### 🌍 Mandarin Worldwide Vacations — Travel Booking Website
 
-**Tech Used:** React.js, Tailwind CSS
+**Tech Used:** Next.js, Tailwind CSS
 
 ✨ Features:
 
-* Modern UI for branding & media showcase
-* Mobile-first responsive design
-* Fast loading speed
-* Accessibility optimization
+* Vacation packages & destination showcase
+* Booking inquiry functionality
+* Responsive design for all devices
+* Performance-optimized pages
+
+🔗 **Live Demo:** *(Add live link)*
+
+🔗 **GitHub:** *(Add repository link)*
 
 ---
 
@@ -110,10 +118,15 @@
 
 ✨ Features:
 
-* Real-time chatbot interaction
-* Authentication system
+* AI-powered chatbot interface
+* Real-time interactions
+* Authentication with Supabase
 * Secure API handling
 * Optimized frontend performance
+
+🔗 **Live Demo:** *(Add live link)*
+
+🔗 **GitHub:** *(Add repository link)*
 
 ---
 ## 🚀 GitHub Contribution Game
