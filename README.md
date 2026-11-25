@@ -1,4 +1,3 @@
-
 <h2 align="left">Hey, I'm Akash Negi 👋</h2>
 
 <h3 align="left">Full Stack Developer | React & Next.js</h3>
